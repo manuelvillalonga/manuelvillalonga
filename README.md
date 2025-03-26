@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hola! soy Manuel 
+  
+<div align="center" style="border: px solid #000000;>
 
-<!--
-**manuelvillalonga/manuelvillalonga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+</div>
+<p align="center" >
+ <img  height="280rem" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
+ </p>
+Puedo trabajar con:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=html,ps)](https://skillicons.dev)
+
+
+
+
+##:rugby_football: Soy jugador de rugby :rugby_football:
+
